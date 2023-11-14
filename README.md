@@ -8,7 +8,7 @@
 <img src=WebApiJahanardRedis/img/TypeofCache2.png/>
 
 # For Test Download
-[Download the Redis Server using the following URL](https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504)
+[Download the Redis Server using the following URL/win-3.0.504](https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504)
 # WebApiJahanardRedis/ForTest
 <img src=WebApiJahanardRedis/img/redis3.png/>
 <img src=WebApiJahanardRedis/img/redis4.png/>
